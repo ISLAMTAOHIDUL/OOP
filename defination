@@ -1,0 +1,127 @@
+1. Object-Oriented Programming (OOP)
+
+Object-Oriented Programming is a programming paradigm that organizes a program around objects and classes, allowing real-world modeling and modular design.
+
+🔹 2. Class
+
+A class is a user-defined blueprint that contains data members and member functions used to create objects.
+
+🔹 3. Object
+
+An object is an instance of a class that represents a real-world entity and occupies memory.
+
+🔹 4. Encapsulation
+
+Encapsulation is the process of hiding data members by declaring them private and providing controlled access through public member functions.
+
+🔹 5. Data Hiding
+
+Data hiding restricts direct access to sensitive data to protect it from misuse.
+
+🔹 6. Setter Method
+
+A setter is a public member function used to modify private data members safely, often with validation.
+
+🔹 7. Getter Method
+
+A getter is a public member function used to retrieve private data members without allowing direct modification.
+
+🔹 8. Constructor
+
+A constructor is a special member function that is automatically invoked when an object is created to initialize data members.
+
+🔹 9. Default Constructor
+
+A default constructor is a constructor that takes no parameters.
+
+🔹 10. Parameterized Constructor
+
+A parameterized constructor initializes an object using arguments passed at creation time.
+
+🔹 11. Static Data Member
+
+A static data member is shared among all objects of a class and exists only once in memory.
+
+🔹 12. Static Member Function
+
+A static member function can access only static data members and does not require an object.
+
+🔹 13. File Handling (File I/O)
+
+File handling allows programs to store and retrieve data permanently using files.
+
+🔹 14. ofstream
+
+ofstream is an output file stream used to write data to a file.
+
+🔹 15. ifstream
+
+ifstream is an input file stream used to read data from a file.
+
+🔹 16. Exception Handling
+
+Exception handling is a mechanism to handle runtime errors using try, catch, and throw.
+
+🔹 17. Custom Exception
+
+A custom exception is a user-defined class used to handle specific errors.
+
+🔹 18. Template
+
+A template allows writing generic code that works for multiple data types.
+
+🔹 19. Function Template
+
+A function template defines a function that can operate with different data types.
+
+🔹 20. Class Template
+
+A class template defines a generic class that works with multiple data types.
+
+🔹 21. STL (Standard Template Library)
+
+The STL is a collection of ready-made containers, algorithms, and iterators in C++.
+
+🔹 22. STL Vector
+
+A vector is a dynamic array that automatically resizes and stores elements contiguously.
+
+🔹 23. Vector of Objects
+
+A vector of objects stores multiple user-defined class objects dynamically.
+
+🔹 24. Iterator
+
+An iterator is an object used to traverse elements in STL containers.
+
+🔹 25. Algorithm (STL)
+
+STL algorithms perform operations like searching and sorting on containers.
+
+🔹 26. Menu-Driven Program
+
+A menu-driven program allows users to choose operations repeatedly using options.
+
+🔹 27. Data Persistence
+
+Data persistence ensures data remains available even after the program terminates.
+
+🔹 28. Auto-Increment ID
+
+An auto-increment ID is generated automatically using a static variable to ensure uniqueness.
+
+🔹 29. Const Member Function
+
+A const member function guarantees that the object’s data will not be modified.
+
+🔹 30. Scope Resolution Operator (::)
+
+The scope resolution operator is used to define static members outside the class.
+
+🔹 31. Exception Safety
+
+Exception safety ensures the program remains stable even if errors occur.
+
+🔹 32. Object Persistence
+
+Object persistence means storing object data in files so it can be restored later.
